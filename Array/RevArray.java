@@ -1,3 +1,5 @@
+// DSA - java program to reverse an array
+
 import java.util.*;
 
 public class RevArray {
