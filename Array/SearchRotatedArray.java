@@ -1,4 +1,5 @@
-//DSA java program to find and print the index of the key found in the rotated sorted array
+//DSA java program to find and print the index of the key found in the rotated sorted array 
+//using linear search
 
 import java.util.*;
 
