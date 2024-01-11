@@ -10,6 +10,7 @@ public class MaxSumSubarray {
         // user input to size of the array
         System.out.print("Enter the size of the array:" + " ");
         int size = sc.nextInt();
+
         // declare and initialize an array
         int[] arr = new int[size];
 
@@ -28,6 +29,8 @@ public class MaxSumSubarray {
                 sum = 0;
             }
         }
+
+        // print the max sum
         System.out.println("The maximum sum in the subarray:" + max);
 
     }
