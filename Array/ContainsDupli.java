@@ -1,3 +1,4 @@
+//DSA java program to print the duplicate elements in an array if any
 
 import java.util.*;
 

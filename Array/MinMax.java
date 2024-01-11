@@ -1,3 +1,4 @@
+//DSA java program to find the minimum and maximum elements in the array
 
 import java.util.*;
 
