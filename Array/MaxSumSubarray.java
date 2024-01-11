@@ -1,4 +1,4 @@
-// DSA = java program to print the maximum sum of the subarray in the given array 
+// DSA java program to print the maximum sum of the subarray in the given array 
 //using kadane's algorithm
 
 import java.util.*;
