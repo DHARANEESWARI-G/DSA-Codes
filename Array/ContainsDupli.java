@@ -29,5 +29,6 @@ public class ContainsDupli {
 
             }
         }
+        sc.close();
     }
 }
