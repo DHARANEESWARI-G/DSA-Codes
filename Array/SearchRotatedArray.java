@@ -1,4 +1,4 @@
-//DSA java program to find and print the index of the key found in the rotated sorted array 
+//DSA - Java program to find and print the index of the key found in the rotated sorted array 
 //using linear search
 
 import java.util.*;
@@ -28,5 +28,6 @@ public class SearchRotatedArray {
 		} else {
 			System.out.println("Key not found");
 		}
+		sc.close();
 	}
 }

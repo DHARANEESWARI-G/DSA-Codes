@@ -1,4 +1,4 @@
-//DSA java program to find the minimum and maximum elements in the array
+// DSA - Java program to find the minimum and maximum elements in the array
 
 import java.util.*;
 
@@ -50,5 +50,6 @@ public class MinMax {
         // print the min and max elements
         System.out.println("Maximum element in the array: " + m.max(arr));
         System.out.println("Minimum element in the array: " + m.min(arr));
+        sc.close();
     }
 }

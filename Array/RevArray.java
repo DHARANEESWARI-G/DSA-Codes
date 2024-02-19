@@ -1,4 +1,4 @@
-// DSA - java program to reverse an array
+// DSA - Java program to reverse an array
 
 import java.util.*;
 
@@ -41,5 +41,6 @@ public class RevArray {
             System.out.print(arr[i] + " ");
         }
         System.out.println("");
+        sc.close();
     }
 }

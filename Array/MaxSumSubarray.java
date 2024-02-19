@@ -1,5 +1,5 @@
-// DSA java program to print the maximum sum of the subarray in the given array 
-//using kadane's algorithm
+// DSA  - Java program to print the maximum sum of the subarray in the given array 
+// using kadane's algorithm
 
 import java.util.*;
 
@@ -32,6 +32,7 @@ public class MaxSumSubarray {
 
         // print the max sum
         System.out.println("The maximum sum in the subarray:" + max);
+        sc.close();
 
     }
 
