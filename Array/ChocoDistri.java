@@ -66,7 +66,7 @@ public class ChocoDistri {
 
         // printing the minimum difference
         System.out.println("Minimum difference of chocolates: " + findMinDiff(arr, m));
-        sc.close();
+        sc.close(); // closing scanner
     }
 
 }
