@@ -32,7 +32,7 @@ public class RepeatingAndMissingNumber {
         v2 = v2 / v1; // x+y = v2/x-y
         int x = (v1 + v2) / 2;
         int y = x - v1;
-        System.out.println("Reapeating number: " + x);
+        System.out.println("Repeating number: " + x);
         System.out.print("Missing number: " + y);
         sc.close();
 
