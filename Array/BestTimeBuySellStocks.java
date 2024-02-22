@@ -1,8 +1,11 @@
+// DSA - Java program to the problem best time to buy and sell stocks
+
 import java.util.*;
 
 public class BestTimeBuySellStocks {
     static int buySellStocks(int price[]) {
 
+        // base case
         if (price == null || price.length == 0) {
             return 0;
         }
@@ -34,6 +37,8 @@ public class BestTimeBuySellStocks {
         for (int i = 0; i < n; i++) {
             price[i] = sc.nextInt();
         }
+
+        // calling the func
         int ans = buySellStocks(price);
         System.out.println("The maximum profit is: " + ans);
         sc.close();
